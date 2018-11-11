@@ -6,6 +6,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 keywords: 'architecture, interior design'
 skills: 'Architect - Interior Designer'
 meta_author: Brankica Dogazanska
+baseurl: /brankicaad
 
 # Google webmaster tools
 google_verify:
